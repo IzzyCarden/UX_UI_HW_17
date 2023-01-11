@@ -29,13 +29,13 @@ body{
     color: white;
     font-size: 24px;
     font-family: montserrat, arial, sans-serif;
-    margin-left: 48%;
-    padding-right: 130px;
+    margin-left: 50%;
     margin-top: -550px;
     text-align: center;
+    width: 400px;
   }
   .heroimg{
-    margin-left: 300px;
+    margin-left: -100px;
     margin-top: 50px;
     height: 600px;
     padding: 25px;
@@ -50,7 +50,7 @@ body{
     background-color: black;
     font-size:18px;
     float:right;
-    margin-right: 300px;
+    margin-right: -50px;
     margin-top: 40px;
     padding: 20px;
     border: 2px solid #14ED29;
